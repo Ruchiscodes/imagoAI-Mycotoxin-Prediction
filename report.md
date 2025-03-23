@@ -29,15 +29,10 @@ This project uses hyperspectral imaging data to predict mycotoxin levels in corn
 - Batch size: **32**
 
 ## 5. Model Evaluation
-### 5.1 Metrics
 - **Mean Absolute Error (MAE)**: Measures average prediction error.
 - **R² Score**: Evaluates model performance.
 
-### 5.2 Results
-| Metric  | Value  |
-|---------|--------|
-| MAE     | X.XX   |
-| R² Score | X.XX   |
+
 
 ## 6. Key Findings & Future Improvements
 - The CNN performed well but can be improved with more training data.
